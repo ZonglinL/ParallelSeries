@@ -1,6 +1,9 @@
 # ParallelSeries
 
-## This is the official implementation of our paper accepted in ICTAI 2022: 'How Features Benefit: Parallel Series Embedding for Multivariate Time Series Forecasting with Transformer'
+
+This is the official implementation of our paper accepted in ICTAI 2022: 'How Features Benefit: Parallel Series Embedding for Multivariate Time Series Forecasting with Transformer'
+
+If you find it helpful, please cite as:
 ```
 @INPROCEEDINGS{10098079,
   author={Feng, Xuande and Lyu, Zonglin},
